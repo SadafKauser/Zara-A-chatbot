@@ -43,7 +43,7 @@ with st.sidebar:
     st.markdown(f"**Bot:** {BOT_NAME}")
     st.markdown(f"**Model:** {MODEL}")
     st.markdown("---")
-    st.markdown("**GoYang Workshop** • Session 1")
+    st.markdown("**Codeyoung Workshop** • Session 1")
     st.markdown("Powered by [Groq](https://groq.com) + LLaMA 3 🦙")
 
 # ── STEP 5: CHAT DISPLAY ──────────────────────────────────────────
